@@ -67,7 +67,7 @@ const Contact = () => {
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>
-      <a className="email-link" href="https://cal.com/nihalgunu" target="_blank" rel="noreferrer">
+      <a className="email-link" href="https://cal.com/hari-harish" target="_blank" rel="noreferrer">
         Meet Me!
       </a>
     </StyledContactSection>

@@ -2,12 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Nihal Gunukula',
+    title: 'Hari Harish',
     description:
-      'Nihal Gunukula is an entrepreneur who specializes in building solutions through software engineering and machine learning intiatives.',
-    siteUrl: 'https://nihalgunu.netlify.app', // No trailing slash allowed!
+      'Hari Harish is an entrepreneur who specializes in building solutions through software engineering and machine learning intiatives.',
+    siteUrl: 'https://hariharish.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
