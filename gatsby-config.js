@@ -5,7 +5,7 @@ module.exports = {
     title: 'Hari Harish',
     description:
       'Hari Harish is an entrepreneur who specializes in building solutions through software engineering and machine learning intiatives.',
-    siteUrl: 'https://hari-harish.netlify.app', // No trailing slash allowed!
+    siteUrl: 'https://hariharish.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@harisaiharish',
   },
