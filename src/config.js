@@ -6,10 +6,14 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/harisaiharish',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/hari.harish._',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/bchiang7',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/bchiang7',
+    // },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/hari-harish',
