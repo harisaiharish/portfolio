@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'Python', 'React', 'MongoDB', 'Node.js', 'C/C++'];
+  const skills = ['React', 'Python', 'Node.js', 'Java', 'Cloud APIs', 'MongoDB'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,10 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hari Sai Harish and I am an Entrepreneur, Software Engineer, and
-              Machine Learning Researcher who enjoys revolutionizing current technology. These
-              interests stem from my goals to be the change I want to see in the world leading me to
-              the begin and grow my portfolio of initiatives.
+              Hello! My name is Hari, and I am a passionate developer dedicated to creating the 
+              change I want to see in the world. With extensive experience in Software Development, 
+              Machine Learning, and Research, I am committed to leveraging my skills to build new and 
+              innovative technologies.
             </p>
 
             <p>
@@ -155,8 +155,9 @@ const About = () => {
             </p>
 
             <p>
-              Simultaneously I am also pursuing a Bachelors of Science in Computer Science,
-              alongside a Certificate in Entrepreneurship and a Minor in Math at{' '}
+              Simultaneously I am pursuing a Bachelors of Science double major in 
+              Computer Science and Data Science, alongside a Certificate in Entrepreneurship 
+              at{' '}
               <a href="https://www.cs.purdue.edu/" target="_blank" rel="noreferrer">
                 Purdue University
               </a>
