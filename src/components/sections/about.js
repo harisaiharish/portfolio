@@ -161,7 +161,7 @@ const About = () => {
             </p>
 
             <p>
-              Simultaneously I am pursuing a Bachelors of Science double major in 
+              Currently I am pursuing a Bachelors of Science double major in 
               Computer Science and Data Science, alongside a Certificate in Entrepreneurship 
               at{' '}
               <a href="https://www.cs.purdue.edu/" target="_blank" rel="noreferrer">
