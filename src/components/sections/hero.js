@@ -65,11 +65,18 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an Entrepreneur utilizing Software Engineering and Machine Learning to revolutionize
-        current technology. Currently, I’m focused on building an autonmous wheel chair for indoor
+        {/* I’m an Entrepreneur utilizing Software Engineering and Machine Learning to revolutionize 
+        technology. Currently, I am focused on building an autonmous wheel chair for indoor
         workplace navigation at{' '}
         <a href="https://ideas.cs.purdue.edu/research/" target="_blank" rel="noreferrer">
           IDEAS Lab
+        </a>
+        . */}
+        I’m an Entrepreneur utilizing Software Engineering and Machine Learning to revolutionize 
+        technology. Currently, I am focused on developing an advanced image processor to automate
+        watermark detection and removal for{' '}
+        <a href="https://tarnea.com/" target="_blank" rel="noreferrer">
+          Tarnea Technological Solutions
         </a>
         .
       </p>

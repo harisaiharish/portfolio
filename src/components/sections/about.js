@@ -142,15 +142,21 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://incornandsoy.org/">a corporation</a>,{' '}
               <a href="https://ideas.cs.purdue.edu/">a research lab</a>,{' '}
               <a href="https://centers.purdue.edu/fusion-studio/">a studio</a>, and a{' '}
-              <a href="https://eazyml.com/">start up</a>. My main focus these days is building and
-              launching a storage solutions company named{' '}
+              <a href="https://eazyml.com/">start up</a>. As for personal ventures, my main focus these days 
+              is building and launching my storage solutions company named{' '}
               <a href="https://www.linkedin.com/feed/update/urn:li:activity:7156137787556077568/">
                 OpenSpaces
               </a>
+              . */}
+              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a href="https://tarnea.com/">a corporation</a>,{' '}
+              <a href="https://theylacproject.com/young-researchers-for-social-impact/">a research lab</a>,{' '}
+              <a href="https://maps.app.goo.gl/7YeTG7xy24YXLqo97">a school</a>, and a{' '}
+              <a href="https://www.inspiritai.com/">start up</a>
               .
             </p>
 
