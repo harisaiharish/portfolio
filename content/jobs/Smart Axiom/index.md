@@ -1,6 +1,6 @@
 ---
 date: '2023-08-21'
-title: 'Software Engineer'
+title: 'SWE intern'
 company: 'Smart Axiom'
 location: 'Bangalore, India'
 range: 'June 2023 - September 2023'

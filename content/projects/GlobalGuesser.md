@@ -1,13 +1,15 @@
 ---
-date: '2024-01-27'
+date: '2023-02-10'
 title: 'Global Guesser'
-github: ''
+github: 'https://github.com/harisaiharish/GlobalGuesser-v2'
 external: ''
 tech:
-  - React JS
-  - ML Flow
-company: 'ML@Purdue'
+  - Javascript
+  - Python
+  - GeoPy APIs
+  - SQL Database
+  - Flask Backend
 showInProjects: true
 ---
 
-Developing a closed source leaderboard for ML Hackathons.
+Created an educational game focused on educating players about anthropological, historical, geographical, and political facts about every nation. Designed an interactive world map interface to allow users to accurately pinpoint nations, and implemented a point system to enhance user engagement and learning outcomes. Lead project development for India's Largest Hackathon: Tisb Hacks.
