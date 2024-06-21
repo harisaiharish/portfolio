@@ -1,6 +1,6 @@
 ---
 date: '2024-01-27'
-title: 'Leaderboard Project'
+title: 'Global Guesser'
 github: ''
 external: ''
 tech:
