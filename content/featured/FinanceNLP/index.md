@@ -1,8 +1,9 @@
 ---
-date: '3'
+date: '2'
 title: 'Finance NLP'
 cover: './ppt.png'
-external: 'https://docs.google.com/presentation/d/1hgONVsPljrMcTGp6RROngovd2nxHJSjnpzIOXaK6DDQ/view'
+external: 'https://colab.research.google.com/drive/1hm5whi546WLsNmiR9RkklUv8AJK0-wQD?usp=sharing'
+cta: 'https://docs.google.com/presentation/d/1hgONVsPljrMcTGp6RROngovd2nxHJSjnpzIOXaK6DDQ/view'
 tech:
   - Natural Language Processing
   - LLMs
