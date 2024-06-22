@@ -3,6 +3,7 @@ date: '2023-02-10'
 title: 'Global Guesser'
 github: 'https://github.com/harisaiharish/GlobalGuesser-v2'
 external: ''
+company: 'TisbHacks 2023'
 tech:
   - Javascript
   - Python
