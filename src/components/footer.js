@@ -105,9 +105,10 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://brittanychiang.com/">
-          <div>Design inspired by Brittany Chiang</div>
-          <div>Website built using Gatsby</div>
+        <div>Website design inspired by <a href="https://brittanychiang.com/">Brittany Chiang</a>. Website built using <a href="https://www.gatsbyjs.com/">Gatsby</a></div>
+      
+        {/* <a href="https://brittanychiang.com/">
+          <div>Design inspired by Brittany Chiang</div> */}
 
           {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
@@ -121,7 +122,7 @@ const Footer = () => {
               </span>
             </div>
           )} */}
-        </a>
+        {/* </a> */}
       </StyledCredit>
     </StyledFooter>
   );
