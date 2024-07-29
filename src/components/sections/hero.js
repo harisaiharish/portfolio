@@ -75,9 +75,8 @@ const Hero = () => {
         I’m an Entrepreneur utilizing Software Engineering and Machine Learning to revolutionize 
         technology. Currently, I am focused on developing an 
         <a href="https://github.com/harisaiharish/ad-engagement-tracker/" target="_blank" rel="noreferrer">
-        advertisement engagement tracker
-        </a>
-         which in order to enhance marketing tactics in retail settings for {' '} 
+        advertisement engagement tracker 
+        </a>in order to enhance marketing tactics in retail settings for {' '} 
         <a href="https://tarnea.com/" target="_blank" rel="noreferrer">
           Tarnea Technological Solutions
         </a>
