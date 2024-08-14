@@ -8,6 +8,7 @@ url: 'https://tarnea.com/'
 ---
 
 - Originally developed an Optical Character Recognition algorithm to digitize bills from pharmacies nationwide with 95% accuracy. Used Pytesseract, OpenCV, and Cloud APIs to create this OCR model, which then segregated and recorded chunks of data to feed to an analytics engine.
-- During my ongoing second stint, I am building a real-time advertisement engagement tracker for retail stores, in order to enhance marketing strategies. I am using OpenCV, Dlib, Flask, and other Open-Source Machine Learning models to create an algorithm which consistently logs the total number of people in the store, total number of people looking at the advertisement screen, total viewing time, and the demographics of interested customers.
+- During my <a href="certificate.pdf" className="resume-link">second stint</a>, I built a real-time advertisement engagement tracker for retail stores, in order to enhance marketing strategies. I used OpenCV, Dlib, Flask, and other Open-Source Machine Learning models to create an algorithm which consistently logs the total number of people in the store, total number of people looking at the advertisement screen, total viewing time, and the demographics of interested customers.
 
 ---
+
