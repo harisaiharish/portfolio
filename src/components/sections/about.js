@@ -162,7 +162,7 @@ const About = () => {
 
             <p>
               Currently I am pursuing a Bachelors of Science double major in 
-              Computer Science and Data Science, alongside a Certificate in Entrepreneurship 
+              Computer Science and Data Science, alongside a minor in Economics 
               at{' '}
               <a href="https://www.cs.purdue.edu/" target="_blank" rel="noreferrer">
                 Purdue University
