@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['React', 'Python', 'Node.js', 'Java', 'Cloud APIs', 'Flutter', 'MongoDB', 'Flask'];
+  const skills = ['JavaScript', 'Python', 'Java', 'C/C++', 'GCP', 'AWS', 'Docker', 'Flutter', 'MongoDB', 'Flask'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -154,9 +154,9 @@ const About = () => {
               . */}
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://tarnea.com/">a corporation</a>,{' '}
-              <a href="https://theylacproject.com/young-researchers-for-social-impact/">a research lab</a>,{' '}
+              <a href="https://centers.purdue.edu/fusion-studio/">a research lab</a>,{' '}
               <a href="https://maps.app.goo.gl/7YeTG7xy24YXLqo97">a school</a>, and a{' '}
-              <a href="https://www.inspiritai.com/">start up</a>
+              <a href="https://www.concreteengine.com/">start up</a>
               .
             </p>
 

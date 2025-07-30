@@ -3,7 +3,7 @@ date: '2024-06-04'
 title: 'SWE intern'
 company: 'Tarnea'
 location: 'Bangalore, India'
-range: 'Nov 2022 - Feb 2023, and Jun 2023 - Present'
+range: 'Nov 2022 - Feb 2023, and May 2023 - Jun 2023'
 url: 'https://tarnea.com/'
 ---
 

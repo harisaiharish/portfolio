@@ -10,4 +10,4 @@ tech:
   - SQLite Technologies
 ---
 
-Spearheaded the creation of this pioneering website to win 1st place at Oakridge Codefest: India's Largest Overnight Hackathon for Secondary Students. This website revolutionizes meet-up planning in unfamiliar/traffic-heavy cities by triangulating and displaying potential spots based on the preferential and locational parametric requirements of every user. Furthermore, the website simultaneously suggests public transit routes of travel, in order to promote sustainability. This project is currently being developed for professional deployment.
+Spearheaded the creation of this pioneering website to win 1st place (trophy + 30,000 INR cash prize) at Oakridge Codefest: India's Largest Overnight Hackathon for Secondary Students. This website revolutionizes meet-up planning in unfamiliar/traffic-heavy cities by triangulating and displaying potential spots based on the preferential and locational parametric requirements of every user. Furthermore, the website simultaneously suggests public transit routes of travel, in order to promote sustainability.
