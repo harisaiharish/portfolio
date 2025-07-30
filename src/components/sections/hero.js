@@ -73,8 +73,8 @@ const Hero = () => {
         </a>
         . */}
         I’m an Entrepreneur utilizing Software Engineering and Machine Learning to revolutionize 
-        technology. Currently, I am working as a year-round Backeng Engineering intern, helping develop
-        a distributed supercomputer for high-performance computing operations for a fresh start-up {' '} 
+        technology. Currently, I am working as a year-round Software Engineer, helping develop
+        a distributed supercomputer for high-performance computing operations for an innovative start-up {' '} 
         <a href="https://www.concreteengine.com/" target="_blank" rel="noreferrer">
           Concrete Engine
         </a>
