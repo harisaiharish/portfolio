@@ -2,10 +2,13 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Hari Harish <harisaiharish@gmail.com>",
+  "engines": {
+    "node": ">=22 <23"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/harisaiharish/portfolio.git"
   },
   "keywords": [
     "gatsby"

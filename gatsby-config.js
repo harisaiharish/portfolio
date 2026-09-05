@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Hari Harish',
     description:
-      'Hari Harish is an entrepreneur who specializes in building solutions through software engineering and machine learning intiatives.',
+      'Hari Sai Harish is a software engineer at Purdue building agent infrastructure, developer tools, and applied AI systems.',
     siteUrl: 'https://hariharish.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@harisaiharish',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Hari Sai Harish',
+        short_name: 'Hari Harish',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
